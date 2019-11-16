@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/synicalsyntax/discord.js-heroku.git"
+    "url": "git+https://github.com/malossihosting/discord.js-heroku.git"
   },
   "keywords": [
     "heroku",
     "discord.js"
   ],
-  "author": "synicalsyntax",
+  "author": "malossihosting",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/synicalsyntax/discord.js-heroku/issues"
+    "url": "https://github.com/malossihosting/discord.js-heroku/issues"
   },
-  "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
+  "homepage": "https://github.com/malossihosting/discord.js-heroku#readme",
   "dependencies": {
     "discord.js": "^11.3.0"
   }
